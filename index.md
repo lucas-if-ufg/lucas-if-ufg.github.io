@@ -4,7 +4,8 @@ vontade para explorar essa gama de resultados.
 
 ## Pesquisas
 
-###Modelo de Bell-Lavis 
+### Modelo de Bell-Lavis 
+
 Este modelo foi criado por Bell e Lavis para representar o comportamento orientacional das ligações de hidrogênio nas
 moléculas de água [Bell1970](https://iopscience.iop.org/article/10.1088/0305-4470/3/5/015). Vário estudos foram realizados para esse
 modelo como aproximações de campo médio [Bell1970](https://iopscience.iop.org/article/10.1088/0305-4470/3/5/015),[Lavis1973](http://stacks.iop.org/0022-3719/6/i=9/a=010),
