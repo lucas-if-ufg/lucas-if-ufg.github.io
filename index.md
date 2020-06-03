@@ -12,6 +12,6 @@ Em breve posto novidades.
 
 ## Contato
 
-Lucas Ferreira - ferreira_s_lucas@ufg.br<p>
-Universidade Federal de Goiás<p>
-Instituto de Física<p>
+Lucas Ferreira - ferreira_s_lucas@ufg.br
+Universidade Federal de Goiás
+Instituto de Física
